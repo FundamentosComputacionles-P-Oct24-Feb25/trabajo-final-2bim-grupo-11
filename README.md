@@ -2,8 +2,9 @@
 ## Segundo Bimestre
 
 ***
-## Integrantes del Grupo 11
+### Integrantes del Grupo 11
 Dalton Flores 
+
 Joge Granda
 
 ### Problemática a resolver
